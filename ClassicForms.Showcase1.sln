@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicForms.Showcase1", "ClassicForms.Showcase1\ClassicForms.Showcase1.csproj", "{41BDB69A-6975-42CF-82B6-3AD5C5176B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicForms.Showcase1.UI", "ClassicForms.Showcase1.UI\ClassicForms.Showcase1.UI.csproj", "{86787CD0-1D55-4166-9ED6-0CDF9A2FD16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BDB69A-6975-42CF-82B6-3AD5C5176B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BDB69A-6975-42CF-82B6-3AD5C5176B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BDB69A-6975-42CF-82B6-3AD5C5176B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BDB69A-6975-42CF-82B6-3AD5C5176B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86787CD0-1D55-4166-9ED6-0CDF9A2FD16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86787CD0-1D55-4166-9ED6-0CDF9A2FD16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86787CD0-1D55-4166-9ED6-0CDF9A2FD16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86787CD0-1D55-4166-9ED6-0CDF9A2FD16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA4B3C7-4ED6-494E-88B8-9E5D782528E0}
+	EndGlobalSection
+EndGlobal
