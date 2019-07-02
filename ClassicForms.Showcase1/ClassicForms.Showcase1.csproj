@@ -76,6 +76,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\bridge\bridge.js" />
+    <Content Include="bin\Debug\bridge\ClassicForms.js" />
+    <Content Include="bin\Debug\bridge\ClassicForms.Showcase1.js" />
+    <Content Include="bin\Debug\bridge\index.html" />
     <Content Include="Bridge\windows10.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
